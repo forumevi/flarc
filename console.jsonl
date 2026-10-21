@@ -1,0 +1,243 @@
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4001,\"message\":\"wallet must has at least one account\"}","timestamp":1792074510618}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4001,\"message\":\"wallet must has at least one account\"}","timestamp":1792074510618}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4001,\"message\":\"wallet must has at least one account\"}","timestamp":1792074545186}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4001,\"message\":\"wallet must has at least one account\"}","timestamp":1792074545186}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4001,\"message\":\"wallet must has at least one account\"}","timestamp":1792074560703}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4001,\"message\":\"wallet must has at least one account\"}","timestamp":1792074560703}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"User Rejected the Request\",\"name\":\"Error\",\"code\":4001}","timestamp":1792074581816}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"Tx Signature: User denied transaction signature.\",\"name\":\"Error\",\"code\":4001}","timestamp":1792074737784}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"method not supported: wallet_revokePermissions\",\"code\":-32601}","timestamp":1792074788402}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792075014837}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792085943796}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792085982024}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792086006225}
+{"level":"error","message":"Unhandled promise rejection: Error: Could not establish connection. Receiving end does not exist.\n    at n (chrome-extension://dmkamcknogkgcdfhhbddcghachkejeap/injectedScript.bundle.js:2:94489)","timestamp":1792086273868,"stack":"Error: Could not establish connection. Receiving end does not exist.\n    at n (chrome-extension://dmkamcknogkgcdfhhbddcghachkejeap/injectedScript.bundle.js:2:94489)"}
+{"level":"error","message":"Unhandled promise rejection: Error: Could not establish connection. Receiving end does not exist.\n    at n (chrome-extension://dmkamcknogkgcdfhhbddcghachkejeap/injectedScript.bundle.js:2:99907)","timestamp":1792086273868,"stack":"Error: Could not establish connection. Receiving end does not exist.\n    at n (chrome-extension://dmkamcknogkgcdfhhbddcghachkejeap/injectedScript.bundle.js:2:99907)"}
+{"level":"error","message":"Unhandled promise rejection: Error: Could not establish connection. Receiving end does not exist.\n    at n (chrome-extension://dmkamcknogkgcdfhhbddcghachkejeap/injectedScript.bundle.js:2:94489)","timestamp":1792086273869,"stack":"Error: Could not establish connection. Receiving end does not exist.\n    at n (chrome-extension://dmkamcknogkgcdfhhbddcghachkejeap/injectedScript.bundle.js:2:94489)"}
+{"level":"error","message":"Unhandled promise rejection: Error: Could not establish connection. Receiving end does not exist.\n    at n (chrome-extension://dmkamcknogkgcdfhhbddcghachkejeap/injectedScript.bundle.js:2:99907)","timestamp":1792086273869,"stack":"Error: Could not establish connection. Receiving end does not exist.\n    at n (chrome-extension://dmkamcknogkgcdfhhbddcghachkejeap/injectedScript.bundle.js:2:99907)"}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792087392079}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792087394122}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792087412043}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792087412217}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792087709961}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792087946530}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792088406034}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792088406062}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792088431594}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792088438573}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792088504613}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792088581725}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792088598034}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792088688508}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792089970145}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792089970375}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792090066318}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792090067761}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792090257761}
+{"level":"error","message":"Uncaught ReferenceError: getCurrentPrice is not defined","timestamp":1792090289571,"source":"https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/src/components/HomePage.tsx?t=1792090280902:42:17","stack":"ReferenceError: getCurrentPrice is not defined\n    at TokenCard (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/src/components/HomePage.tsx?t=1792090280902:42:17)\n    at renderWithHooks (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:18474:26)\n    at mountIndeterminateComponent (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:21852:21)\n    at beginWork (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:10558:22)\n    at Object.invokeGuardedCallbackDev (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:10583:24)\n    at invokeGuardedCallback (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:10617:39)\n    at beginWork$1 (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:26696:15)\n    at performUnitOfWork (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:26129:20)\n    at workLoopSync (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:26068:13)"}
+{"level":"error","message":"Uncaught ReferenceError: getCurrentPrice is not defined","timestamp":1792090289581,"source":"https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/src/components/HomePage.tsx?t=1792090280902:42:17","stack":"ReferenceError: getCurrentPrice is not defined\n    at TokenCard (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/src/components/HomePage.tsx?t=1792090280902:42:17)\n    at renderWithHooks (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:18474:26)\n    at mountIndeterminateComponent (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:21852:21)\n    at beginWork (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:10558:22)\n    at Object.invokeGuardedCallbackDev (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:10583:24)\n    at invokeGuardedCallback (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:10617:39)\n    at beginWork$1 (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:26696:15)\n    at performUnitOfWork (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:26129:20)\n    at workLoopSync (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:26068:13)"}
+{"level":"error","message":"The above error occurred in the <TokenCard> component:\n\n    at TokenCard (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/src/components/HomePage.tsx?t=1792090280902:40:22)\n    at TokenCardLoader (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/src/components/HomePage.tsx?t=1792090280902:415:3)\n    at div\n    at div\n    at div\n    at HomePage (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/src/components/HomePage.tsx?t=1792090280902:166:36)\n    at App (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/src/App.tsx?t=1792090280902:30:45)\n    at Le (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=19a80a5d:18793:42)\n    at Web3ContextProvider (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=19a80a5d:34420:30)\n    at ConnectKitProvider (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=19a80a5d:37910:29)\n    at QueryClientProvider (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-WZEH4STI.js?v=19a80a5d:39:30)\n    at Hydrate (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-VSWSFIGY.js?v=19a80a5d:392:11)\n    at WagmiProvider (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-VSWSFIGY.js?v=19a80a5d:414:11)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1792090289582}
+{"level":"error","message":"Uncaught ReferenceError: getCurrentPrice is not defined","timestamp":1792090289582,"source":"https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:16054:15","stack":"ReferenceError: getCurrentPrice is not defined\n    at TokenCard (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/src/components/HomePage.tsx?t=1792090280902:42:17)\n    at renderWithHooks (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:18474:26)\n    at mountIndeterminateComponent (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:21852:21)\n    at beginWork (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:22840:22)\n    at beginWork$1 (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:26684:22)\n    at performUnitOfWork (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:26129:20)\n    at workLoopSync (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:26068:13)\n    at renderRootSync (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:26047:15)\n    at recoverFromConcurrentError (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:25664:28)\n    at performSyncWorkOnRoot (https://i284j6rpl4t23syidoxbt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=19a80a5d:25810:28)"}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792090292102}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792090637450}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792090784133}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792091542651}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792091542761}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792091544696}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792091662588}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792092036519}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792092052065}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792172118325}
+{"level":"warn","message":"Error restoring session i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84292)","timestamp":1792172124514,"stack":"i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84292)"}
+{"level":"warn","message":"(previous line repeated 1× more)","timestamp":1792172124516}
+{"level":"error","message":"Unhandled promise rejection: i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84292)","timestamp":1792172124516,"stack":"i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84292)"}
+{"level":"error","message":"Unhandled promise rejection: i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84292)","timestamp":1792172124516,"stack":"i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84292)"}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792172133478}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) i284j6rpl4t23syidoxbt.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792172153602}
+{"level":"error","message":"Uncaught TypeError: Cannot set property ethereum of #<Window> which has only a getter","timestamp":1792172613404,"source":"chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075","stack":"TypeError: Cannot set property ethereum of #<Window> which has only a getter\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589255\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589259\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589263"}
+{"level":"error","message":"Uncaught TypeError: Cannot set property ethereum of #<Window> which has only a getter","timestamp":1792172613444,"source":"chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075","stack":"TypeError: Cannot set property ethereum of #<Window> which has only a getter\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589255\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589259\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589263"}
+{"level":"error","message":"Uncaught TypeError: Cannot set property ethereum of #<Window> which has only a getter","timestamp":1792172613458,"source":"chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075","stack":"TypeError: Cannot set property ethereum of #<Window> which has only a getter\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589255\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589259\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589263"}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792172902694}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792172902719}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792172907937}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792172907941}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792173743656}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792173743657}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792173743657}
+{"level":"debug","message":"[vite] connected.","timestamp":1792173754633}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792173837131}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792173841047}
+{"level":"debug","message":"[vite] connected.","timestamp":1792173841079}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792173856815}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792173856815}
+{"level":"debug","message":"[vite] connected.","timestamp":1792173906233}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174046053}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792174046053}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792174049107}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792174049109}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792174149798}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174149799}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792174149801}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174149801}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792174163730}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174163730}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792174163730}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174163730}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174303486}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792174303486}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792174303487}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792174318231}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174318231}
+{"level":"debug","message":"[vite] connected.","timestamp":1792174329938}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792174337740}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174337740}
+{"level":"debug","message":"[vite] connected.","timestamp":1792174363078}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792174431197}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174431197}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792174431198}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792174433228}
+{"level":"debug","message":"[vite] connected.","timestamp":1792174467311}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792174476878}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174476878}
+{"level":"debug","message":"[vite] connected.","timestamp":1792174485109}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792174487228}
+{"level":"debug","message":"[vite] connected.","timestamp":1792174571190}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792174684493}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174684493}
+{"level":"debug","message":"[vite] connected.","timestamp":1792174695900}
+{"level":"debug","message":"[vite] connected.","timestamp":1792174711098}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792174993251}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174993251}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175050266}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792175050266}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792175229506}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175229507}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792175229507}
+{"level":"debug","message":"[vite] connected.","timestamp":1792175280540}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792175281939}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792175328803}
+{"level":"debug","message":"[vite] connected.","timestamp":1792175329060}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175392711}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792175392711}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792175392711}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175712624}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792175712624}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792175712624}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792175719193}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175817603}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792175817604}
+{"level":"debug","message":"[vite] connected.","timestamp":1792175859536}
+{"level":"debug","message":"[vite] connected.","timestamp":1792175921293}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792176224262}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792176224262}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792176230266}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792176307587}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792176413836}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792176422340}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792176473405}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792176549904}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792176553510}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792176751942}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792176751942}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792176752557}
+{"level":"debug","message":"[vite] connected.","timestamp":1792176755584}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792176757068}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792176798896}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792176957732}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792176957732}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792176958185}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792176958185}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792177032899}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177032899}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792177032901}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177032901}
+{"level":"debug","message":"[vite] hot updated: /src/components/Footer.tsx","timestamp":1792177066642}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177066642}
+{"level":"debug","message":"[vite] hot updated: /src/components/Footer.tsx","timestamp":1792177066644}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177066644}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792177067518}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177067518}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792177067523}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177067523}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792177083885}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177083885}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792177083890}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177083890}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792177566752}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792177828121}
+{"level":"debug","message":"[vite] connected.","timestamp":1792177828449}
+{"level":"error","message":"Uncaught TypeError: Cannot set property ethereum of #<Window> which has only a getter","timestamp":1792178294395,"source":"chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075","stack":"TypeError: Cannot set property ethereum of #<Window> which has only a getter\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589255\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589259\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589263"}
+{"level":"error","message":"Uncaught TypeError: Cannot set property ethereum of #<Window> which has only a getter","timestamp":1792178294427,"source":"chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075","stack":"TypeError: Cannot set property ethereum of #<Window> which has only a getter\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589255\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589259\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589263"}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792183136863}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792183145260}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792183145260}
+{"level":"debug","message":"[vite] connected.","timestamp":1792183154707}
+{"level":"debug","message":"[vite] connected.","timestamp":1792183155175}
+{"level":"debug","message":"[vite] connected.","timestamp":1792183455766}
+{"level":"debug","message":"[vite] connected.","timestamp":1792183456169}
+{"level":"debug","message":"[vite] connected.","timestamp":1792183483894}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792184097719}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792184097719}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792184097882}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792184097882}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792184103903}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792184316323}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792184316324}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792184316325}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792184316325}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792184475297}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792184641519}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792184641520}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792184641520}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792184641521}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792184697600}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792184697600}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792184776125}
+{"level":"debug","message":"[vite] connected.","timestamp":1792185181759}
+{"level":"debug","message":"[vite] connected.","timestamp":1792185294511}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792185302318}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792185302319}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792185302536}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792185404030}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792185404030}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792185404030}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792185796011}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792186236382}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792186574718}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792187343158}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792187343159}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792187343160}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792187358133}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792187377099}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792187377099}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792187377237}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792187503969}
+{"level":"debug","message":"[vite] connected.","timestamp":1792571995605}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572048009}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792572048009}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572139461}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792572139461}
+{"level":"debug","message":"[vite] connected.","timestamp":1792572144785}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792572208091}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572208091}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1792572289495}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572289496}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1792572289496}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1792572289496}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572289702}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792572310229}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572310229}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792572310229}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792572310229}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792572327718}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572327718}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792572328548}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572328548}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792572329056}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572329056}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792572336874}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572336874}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792572337664}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572337665}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792572338443}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792572338444}
