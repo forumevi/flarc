@@ -3,7 +3,7 @@ import { ArrowLeft, ExternalLink, TrendingUp, TrendingDown, Users, BarChart3, Lo
 import { useAccount, useReadContract, useWriteContract, useWaitForTransactionReceipt, useSwitchChain, usePublicClient, useWatchContractEvent } from 'wagmi'
 import { erc20Abi, parseAbiItem } from 'viem'
 import { createChart, type IChartApi, type ISeriesApi, ColorType, type Time, type LineData, LineSeries } from 'lightweight-charts'
-import { FLARE_ADDRESS, FLARE_ABI, ACTIVE_CHAIN_ID, USDC_ADDRESS, type TokenInfo, formatUsdc, formatAddress, formatTokenAmount, graduationProgress, getMarketCap, formatMarketCap, formatPrice } from '../contract'
+import { FLARE_ADDRESS, FLARE_ABI, ACTIVE_CHAIN_ID, IS_MAINNET, USDC_ADDRESS, type TokenInfo, formatUsdc, formatAddress, formatTokenAmount, graduationProgress, getMarketCap, formatMarketCap, formatPrice } from '../contract'
 import { toast } from 'sonner'
 import { buildTxExplorerUrl } from '@/onchain-facts'
 
@@ -456,7 +456,7 @@ export default function TokenPage({ tokenId, onBack }: Props) {
                     {(['buy', 'sell'] as TradeSide[]).map(s => (
                       <button key={s} onClick={() => { setSide(s); setAmount('') }}
                         className="flex-1 rounded-lg py-2 text-sm font-semibold capitalize transition-all"
-                        style={{ background: side === s ? 'white' : 'transparent', color: side === s ? 'var(--ink)' : 'var(--subtle)', boxShadow: side === s ? '0 1px 4px rgba(18,45,69,0.1)' : 'none' }}
+                        style={{ background: side === s ? 'var(--surface-strong)' : 'transparent', color: side === s ? 'var(--ink)' : 'var(--subtle)', boxShadow: side === s ? '0 1px 4px rgba(0,0,0,0.25)' : 'none', border: side === s ? '1px solid var(--border-strong)' : '1px solid transparent' }}
                       >{s}</button>
                     ))}
                   </div>
@@ -501,7 +501,7 @@ export default function TokenPage({ tokenId, onBack }: Props) {
                   >
                     {token.graduated ? 'Trading closed — graduated'
                       : !address ? 'Connect wallet'
-                      : wrongChain ? 'Switch to Arc Testnet'
+                      : wrongChain ? ('Switch to Arc ' + (IS_MAINNET ? 'Mainnet' : 'Testnet'))
                       : isBusy ? (
                         <span className="flex items-center justify-center gap-2">
                           <Loader2 className="size-4 animate-spin" />

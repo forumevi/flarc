@@ -33,6 +33,8 @@ export default function CreateTokenSheet({ open, onClose, onCreated }: Props) {
   const [imageFile, setImageFile] = useState<File | null>(null)
   const [imagePreview, setImagePreview] = useState('')
   const [uploading, setUploading] = useState(false)
+  const [creatorFee, setCreatorFee] = useState('0')
+  const [openingBuy, setOpeningBuy] = useState('')
   const fileRef = useRef<HTMLInputElement>(null)
   // Prevent doCreate from firing twice after approve
   const createCalledRef = useRef(false)
@@ -172,7 +174,7 @@ export default function CreateTokenSheet({ open, onClose, onCreated }: Props) {
       if (createPending) return <span className="flex items-center justify-center gap-2"><Loader2 className="size-4 animate-spin" /> Confirm in wallet...</span>
       if (createConfirming) return <span className="flex items-center justify-center gap-2"><Loader2 className="size-4 animate-spin" /> Launching...</span>
     }
-    if (wrongChain) return 'Switch to Arc Testnet'
+    if (wrongChain) return 'Switch to Arc ' + (import.meta.env.VITE_CHAIN_ID === '5042' ? 'Mainnet' : 'Testnet')
     if (!address) return 'Connect wallet'
     return 'Launch token — 1 USDC'
   }
@@ -291,10 +293,50 @@ export default function CreateTokenSheet({ open, onClose, onCreated }: Props) {
                 ))}
               </div>
 
+              {/* Creator fee + Opening buy */}
+              <div className="mb-3 grid grid-cols-2 gap-3">
+                <div>
+                  <label className="mb-1 block text-xs font-semibold" style={{ color: 'var(--muted)' }}>CREATOR FEE %
+                    <span className="ml-1 font-normal" style={{ color: 'var(--subtle)' }}>(max 10%)</span>
+                  </label>
+                  <div className="flex items-center rounded-xl px-3 py-2.5" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
+                    <input
+                      type="number" min="0" max="10" step="0.5"
+                      value={creatorFee} onChange={e => setCreatorFee(e.target.value)}
+                      disabled={isBusy}
+                      className="w-full bg-transparent text-sm font-medium outline-none disabled:opacity-50"
+                      style={{ color: 'var(--ink)' }}
+                    />
+                    <span className="text-sm font-semibold" style={{ color: 'var(--subtle)' }}>%</span>
+                  </div>
+                  <p className="mt-0.5 text-xs" style={{ color: 'var(--subtle)' }}>Goes to your wallet</p>
+                </div>
+                <div>
+                  <label className="mb-1 block text-xs font-semibold" style={{ color: 'var(--muted)' }}>OPENING BUY
+                    <span className="ml-1 font-normal" style={{ color: 'var(--subtle)' }}>(optional)</span>
+                  </label>
+                  <div className="flex items-center rounded-xl px-3 py-2.5" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
+                    <input
+                      type="number" min="0" step="1"
+                      value={openingBuy} onChange={e => setOpeningBuy(e.target.value)}
+                      placeholder="0" disabled={isBusy}
+                      className="w-full bg-transparent text-sm font-medium outline-none disabled:opacity-50"
+                      style={{ color: 'var(--ink)' }}
+                    />
+                    <span className="text-sm font-semibold" style={{ color: 'var(--subtle)' }}>USDC</span>
+                  </div>
+                  <p className="mt-0.5 text-xs" style={{ color: 'var(--subtle)' }}>Buy at launch</p>
+                </div>
+              </div>
+
               <div className="mb-5 rounded-2xl px-4 py-3" style={{ background: 'var(--surface-muted)' }}>
                 <div className="flex justify-between text-sm">
                   <span style={{ color: 'var(--muted)' }}>Launch fee</span>
                   <span className="font-semibold tabular-nums" style={{ color: 'var(--ink)' }}>1 USDC</span>
+                </div>
+                <div className="mt-1 flex justify-between text-sm">
+                  <span style={{ color: 'var(--muted)' }}>Creator fee</span>
+                  <span className="font-semibold tabular-nums" style={{ color: 'var(--ink)' }}>{creatorFee || '0'}%</span>
                 </div>
                 <div className="mt-1 flex justify-between text-sm">
                   <span style={{ color: 'var(--muted)' }}>Initial supply</span>
