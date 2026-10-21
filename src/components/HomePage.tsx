@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import { useReadContract } from 'wagmi'
 import { Rocket, TrendingUp, Clock, Zap, GraduationCap, Flame, ArrowRight } from 'lucide-react'
-import { FLARE_ADDRESS, FLARE_ABI, ACTIVE_CHAIN_ID, type TokenInfo, graduationProgress, formatMarketCap, formatPrice } from '../contract'
+import { FLARE_ADDRESS, FLARE_ABI, ACTIVE_CHAIN_ID, IS_MAINNET, type TokenInfo, graduationProgress, formatMarketCap, formatPrice } from '../contract'
 import CreateTokenSheet from './CreateTokenSheet'
 
 type Filter = 'all' | 'new' | 'active' | 'near' | 'graduated'
@@ -146,7 +146,7 @@ export default function HomePage({ onSelectToken, openCreate = false, onCreateCl
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold mb-6 animate-slide-up"
             style={{ background: 'var(--accent-glow)', color: 'var(--accent)', border: '1px solid var(--border-strong)' }}>
             <Flame size={12} />
-            Arc Testnet — USDC as native gas
+            {IS_MAINNET ? 'Arc Mainnet' : 'Arc Testnet'} — USDC as native gas
           </div>
 
           <h1 className="display text-5xl md:text-6xl font-bold mb-5 animate-slide-up" style={{ animationDelay: '0.05s' }}>

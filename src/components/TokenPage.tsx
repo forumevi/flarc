@@ -9,13 +9,10 @@ import { buildTxExplorerUrl } from '@/onchain-facts'
 
 const glass = {
   card: {
-    background: 'rgba(255,255,255,0.64)',
-    backdropFilter: 'blur(24px) saturate(180%)',
-    WebkitBackdropFilter: 'blur(24px) saturate(180%)',
-    border: '1px solid rgba(255,255,255,0.68)',
-    boxShadow: '0 8px 32px rgba(18,45,69,0.08)',
+    background: 'var(--card-bg)',
+    border: '1px solid var(--card-border)',
   } as React.CSSProperties,
-  inner: { background: 'rgba(255,255,255,0.46)', border: '1px solid rgba(255,255,255,0.56)' } as React.CSSProperties,
+  inner: { background: 'var(--surface)', border: '1px solid var(--border)' } as React.CSSProperties,
 }
 
 // Contract events ABI items
