@@ -1,13 +1,20 @@
 {
-  "contractAddress": "0x0f69fa4e1dac3d32dbfb93556e8a075661b1480b",
+  "contractAddress": "0xe8fdd42f1d19382371aa94350a56f23d2faa15a4",
   "network": "ARC-TESTNET",
   "deployerWalletId": "3c2464b2-8369-52e2-a782-800bbeca5396",
   "contract_code_path": "/home/user/app/contracts/FlareLaunchpad.sol",
   "contract_compiled_code_path": "/home/user/app/contracts/out/FlareLaunchpad.sol/FlareLaunchpad.json",
   "contract_network_and_links": {
-    "Arc Testnet": "https://explorer.testnet.arc.io/address/0x0f69fa4e1dac3d32dbfb93556e8a075661b1480b"
+    "Arc Testnet": "https://explorer.testnet.arc.io/address/0xe8fdd42f1d19382371aa94350a56f23d2faa15a4"
   },
   "contract_deployments": [
+    {
+      "chain": "Arc Testnet",
+      "address": "0xe8fdd42f1d19382371aa94350a56f23d2faa15a4",
+      "explorerUrl": "https://explorer.testnet.arc.io/address/0xe8fdd42f1d19382371aa94350a56f23d2faa15a4",
+      "txHash": "0x05c74aa85b31d4b1c158e19e5a9bb90cbe89eda85509e7da4ec847ad5bedf9a7",
+      "deployedAt": "2026-10-21T21:30:17.002Z"
+    },
     {
       "chain": "Arc Testnet",
       "address": "0x0f69fa4e1dac3d32dbfb93556e8a075661b1480b",
@@ -63,6 +70,19 @@
     {
       "type": "function",
       "name": "GRADUATION_THRESHOLD",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "uint256",
+          "internalType": "uint256"
+        }
+      ],
+      "stateMutability": "view"
+    },
+    {
+      "type": "function",
+      "name": "MAX_CREATOR_FEE",
       "inputs": [],
       "outputs": [
         {
@@ -153,6 +173,16 @@
           "name": "imageUrl",
           "type": "string",
           "internalType": "string"
+        },
+        {
+          "name": "creatorFeeBps",
+          "type": "uint256",
+          "internalType": "uint256"
+        },
+        {
+          "name": "creatorFeeWallet",
+          "type": "address",
+          "internalType": "address"
         }
       ],
       "outputs": [],
@@ -268,6 +298,16 @@
               "name": "realUsdcCollected",
               "type": "uint256",
               "internalType": "uint256"
+            },
+            {
+              "name": "creatorFeeBps",
+              "type": "uint256",
+              "internalType": "uint256"
+            },
+            {
+              "name": "creatorFeeWallet",
+              "type": "address",
+              "internalType": "address"
             },
             {
               "name": "graduated",

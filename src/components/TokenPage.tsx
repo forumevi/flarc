@@ -491,6 +491,9 @@ export default function TokenPage({ tokenId, onBack }: Props) {
                   <div className="mb-4 space-y-1.5 text-xs" style={{ color: 'var(--muted)' }}>
                     <div className="flex justify-between"><span>Slippage</span><span className="font-medium" style={{ color: 'var(--ink)' }}>1%</span></div>
                     <div className="flex justify-between"><span>Protocol fee</span><span className="font-medium" style={{ color: 'var(--ink)' }}>1%</span></div>
+                    {token.creatorFeeBps > 0n && (
+                      <div className="flex justify-between"><span>Creator fee</span><span className="font-medium" style={{ color: 'var(--ink)' }}>{Number(token.creatorFeeBps) / 100}%</span></div>
+                    )}
                   </div>
 
                   <button

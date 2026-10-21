@@ -105,13 +105,15 @@ export default function CreateTokenSheet({ open, onClose, onCreated }: Props) {
     setStep('creating')
     const imageUrl = await uploadImage()
     void saveMetadata(imageUrl)
+    const feeBps = BigInt(Math.round(Math.min(10, Math.max(0, parseFloat(creatorFee) || 0)) * 100))
+    const feeWallet = (address ?? '0x0000000000000000000000000000000000000000')
     createWrite({
       address: FLARE_ADDRESS,
       abi: FLARE_ABI,
       functionName: 'createToken',
-      args: [name.trim(), symbol.trim().toUpperCase(), imageUrl],
+      args: [name.trim(), symbol.trim().toUpperCase(), imageUrl, feeBps, feeWallet],
     })
-  }, [uploadImage, createWrite, saveMetadata, name, symbol])
+  }, [uploadImage, createWrite, saveMetadata, name, symbol, creatorFee, address])
 
   // After approve TX confirmed → trigger create
   useEffect(() => {

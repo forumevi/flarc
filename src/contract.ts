@@ -18,10 +18,12 @@ export interface TokenInfo {
   imageUrl: string
   creator: `0x${string}`
   createdAt: bigint
+  totalSupply: bigint
   virtualUsdcReserve: bigint
   virtualTokenReserve: bigint
   realUsdcCollected: bigint
-  totalSupply: bigint
+  creatorFeeBps: bigint
+  creatorFeeWallet: `0x${string}`
   graduated: boolean
 }
 

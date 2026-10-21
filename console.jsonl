@@ -255,3 +255,35 @@
 {"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792589749510}
 {"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792589749511}
 {"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792590086321}
+{"level":"error","message":"Uncaught TypeError: Cannot set property ethereum of #<Window> which has only a getter","timestamp":1792618024391,"source":"chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075","stack":"TypeError: Cannot set property ethereum of #<Window> which has only a getter\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589075\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589255\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589259\n    at chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js:2:589263"}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792618053790}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792618057872}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792618122270}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792618122270}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792618122271}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792618122271}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792618135573}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792618135573}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1792618140123}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792618147377}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792618147378}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792618147379}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792618147379}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792618159200}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792618159200}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792618159201}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792618159201}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792618159367}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomePage.tsx","timestamp":1792618159367}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792618159367}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792618159367}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792618171982}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792618171982}
+{"level":"debug","message":"[vite] hot updated: /src/components/TokenPage.tsx","timestamp":1792618171984}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792618171984}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792618198542}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792618198543}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateTokenSheet.tsx","timestamp":1792618199003}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792618199003}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792618232843}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792618232847}
