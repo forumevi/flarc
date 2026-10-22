@@ -176,7 +176,7 @@ export default function CreateTokenSheet({ open, onClose, onCreated }: Props) {
       if (createPending) return <span className="flex items-center justify-center gap-2"><Loader2 className="size-4 animate-spin" /> Confirm in wallet...</span>
       if (createConfirming) return <span className="flex items-center justify-center gap-2"><Loader2 className="size-4 animate-spin" /> Launching...</span>
     }
-    if (wrongChain) return 'Switch to Arc ' + (import.meta.env.VITE_CHAIN_ID === '5042' ? 'Mainnet' : 'Testnet')
+    if (wrongChain) return 'Switch to Arc Mainnet'
     if (!address) return 'Connect wallet'
     return 'Launch token — 1 USDC'
   }

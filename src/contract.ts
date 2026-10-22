@@ -1,13 +1,11 @@
 import artifact from '../contracts/out/FlareLaunchpad.sol/FlareLaunchpad.json'
 
-export const FLARE_ADDRESS = (import.meta.env.VITE_CONTRACT_ADDRESS || '0x0f69fa4e1dac3d32dbfb93556e8a075661b1480b') as `0x${string}`
+export const FLARE_ADDRESS = (import.meta.env.VITE_CONTRACT_ADDRESS || '0x735E2f7D97852CCC4D2E35c010850c801E4f035B') as `0x${string}`
 export const FLARE_ABI = artifact.abi
 
-export const ARC_TESTNET_CHAIN_ID = 5042002
 export const ARC_MAINNET_CHAIN_ID = 5042
-// Chain to use: mainnet if VITE_CHAIN_ID=5042, else testnet
-export const ACTIVE_CHAIN_ID: number = import.meta.env.VITE_CHAIN_ID === '5042' ? ARC_MAINNET_CHAIN_ID : ARC_TESTNET_CHAIN_ID
-export const IS_MAINNET = ACTIVE_CHAIN_ID === ARC_MAINNET_CHAIN_ID
+export const ACTIVE_CHAIN_ID: number = ARC_MAINNET_CHAIN_ID
+export const IS_MAINNET = true
 export const USDC_ADDRESS = '0x3600000000000000000000000000000000000000' as const
 export const USDC_DECIMALS = 6
 
