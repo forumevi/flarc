@@ -265,7 +265,7 @@ function TokenCardLoader({ tokenId, filter, stats, onClick }: {
     args: [tokenId], chainId: ACTIVE_CHAIN_ID,
   })
   if (!data) return null
-  const token = data as unknown as TokenInfo
+  const token = data
   const progress = graduationProgress(token)
   if (filter === 'graduated' && !token.graduated) return null
   if (filter === 'near' && (progress < 50 || token.graduated)) return null
@@ -280,7 +280,7 @@ function TrendingChip({ tokenId, onClick }: { tokenId: bigint; onClick: () => vo
     args: [tokenId], chainId: ACTIVE_CHAIN_ID,
   })
   if (!data) return null
-  const token = data as unknown as TokenInfo
+  const token = data
   return (
     <button
       onClick={onClick}
