@@ -1,7 +1,7 @@
-import artifact from '../contracts/out/FlareLaunchpad.sol/FlareLaunchpad.json'
+import { FLARE_ABI } from './abi'
 
+export { FLARE_ABI }
 export const FLARE_ADDRESS = (import.meta.env.VITE_CONTRACT_ADDRESS || '0x735E2f7D97852CCC4D2E35c010850c801E4f035B') as `0x${string}`
-export const FLARE_ABI = artifact.abi
 
 export const ARC_MAINNET_CHAIN_ID = 5042
 export const ACTIVE_CHAIN_ID: number = ARC_MAINNET_CHAIN_ID
